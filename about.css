@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(rgba(0,0,0,0.507),rgba(0,0,0,0.575)),url(elteck/06.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: larger;
+}
+header{
+    height: auto;
+    width: auto;
+    background-color:white;
+    background-size: cover;
+    position: relative;
+    padding: 0%;
+    margin: 0%;
+}
+
+nav{
+    display: flex;
+    padding: 3%;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+}
+body{
+    font-size: larger;
+    font-family: times romans
+
+} 
+p{
+    background-color:cadetblue;
+}  
+
+    header{
+        background-color: white;
+
+    }
+a{
+color:red;
+}
